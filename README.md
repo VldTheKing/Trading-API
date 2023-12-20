@@ -7,8 +7,11 @@ Explore the world of stock trading with this Python project that simulates a bas
 Key Features:
 
 Data Fetching: Retrieve historical stock data from a CSV file for simulation.
+
 Trading Strategy: Implement a straightforward moving average crossover strategy to generate buy and sell signals.
+
 Portfolio Simulation: Simulate buying and selling actions based on trading signals, updating the virtual portfolio and balance accordingly.
+
 Performance Tracking: Track and visualize the simulated portfolio value over the duration of the simulation.
 
 Usage
